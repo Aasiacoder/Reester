@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Oswald", sans-serif;
+  }
+.setion-one,.section-one__nav{
+    background-color: black;
+    color: #4BFFFF;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border: solid #4BFFFF 3px;
+    border-radius: 20px;
+}
+.section-one__list{
+    width: 100%;
+    display: inline;
+    padding-left: 5px;
+    color: grey;
+}
+.section-one__list:hover{
+    color: #4BFFFF;
+    cursor: pointer;
+}
+.section-two{
+    margin: 10px;
+    text-align: center;
+}
+.division-box{
+    display: inline-block;
+    border: solid #4BFFFF 3px;
+    border-radius: 5px;
+    width: 250px;
+    background-color: #4BFFfF;
+}
+.section-two__input {
+    color: grey;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.section-two__input:hover {
+    color: #4BFFFF;
+}
+.section-two__input,.section-two__form{
+    text-align: center;
+}
+.section-two__input{
+    background-color: black;
+    color: white;
+    padding: 2px;
+}
+.section-three{
+    background-color: black;
+    color: #4BFFFF;
+    margin: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    border: solid #4BFFFF 3px;
+    border-radius: 20px;
+}
+.section-three__input{
+    background-color: white;
+    color: black;
+    padding-bottom: 5px;
+    text-align: left;
+    border: solid #4BFFFF;
+}
+.section-three__table{
+    justify-items: center;
+    margin: 5px;
+}
+.section-threee__form,.section-three__table{
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    margin-left: 42%;
+}
+.section-three__button{
+    background-color: #4BFFFF;
+    color: black;
+    width: 200px;
+    padding: 5px;
+    font-size:large;
+    justify-items: center;
+}
+.section-three__td {
+    text-align: left;
+}
+
+
